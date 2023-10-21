@@ -1,0 +1,31 @@
+title: Papers in Systems
+description: A friendly virtual journal club
+repository: papers-in-systems/website
+
+theme: minima
+# Minima: custom header links
+header_pages:
+  - _pages/about.md
+  - _pages/archive.md
+  - _pages/codeofconduct.md
+
+collections:
+  sessions:
+    output: true
+
+# ensure we publish pages for upcoming sessions
+future: true
+
+minima:
+  date_format: "%B %e, %Y"
+
+include:
+  - _pages
+
+exclude:
+  - .gitignore
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

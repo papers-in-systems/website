@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+<div class="session-detail">
+  <p class="session-meta">
+    Presented
+    <time
+      class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}"
+      itemprop="datePublished"
+    >
+      {{ page.date | date: site.minima.date_format }}
+    </time>
+    {%- if page.presenter -%} by {% for presenter in page.presenter %}
+    <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
+      <span class="p-performer h-card" itemprop="name"
+        ><a href="{{presenter_link}}">{{ presenter }}</a></span
+      ></span
+    >
+    {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
+  </p>
+
+  <div class="paper-link">
+    <a href="{{ page.paper_link }}">
+      &ldquo;{{ page.paper_title }}&rdquo; by {{ page.paper_author }} ({{
+      page.paper_year }})</a
+    >
+  </div>
+
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
+
+  <div>
+    <a class="register" href="{{page.registration}}"
+      >Register to join this session</a
+    >
+
+    <script>
+      const date = {{ page.date | date: '%s%L'}}
+      if (date < Date.now()) {
+        const $register = document.querySelector('.register')
+        $register.classList.add('passed')
+        $register.textContent = "This session is passed."
+      }
+    </script>
+  </div>
+</div>

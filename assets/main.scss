@@ -1,0 +1,111 @@
+---
+# don't delete these lines, jekyll needs them
+---
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #383838;
+}
+.hidden {
+  display: none;
+}
+
+.site-title::before{
+  content: '📄 ';
+}
+
+.post-header{
+  margin: 0;
+}
+
+li.session {
+  list-style: none;
+  margin-bottom: 1em;
+
+  .title {
+    font-size: 140%;
+    color: #2a7ae2;
+  }
+  &:hover .title{
+    text-decoration: underline;
+  }
+
+  a{
+    color: inherit;
+    text-decoration: none;
+    display: block;
+  }
+}
+
+.session-excerpt {
+  background: #eee;
+  padding: 1em;
+  margin: 0 -1em;
+  border-radius: 4px;
+
+  .title {
+    font-size: 140%;
+    margin-bottom: 1em;
+    color: #2a7ae2;
+  }
+
+  &:hover{
+    .title {
+      text-decoration: underline;
+    }
+  }
+  a {
+    display: block;
+    color: #333;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+}
+
+.session-list {
+  margin: 0;
+}
+
+.session-meta {
+  font-size: 100%;
+}
+
+.paper-link {
+
+  margin-bottom: 1em;
+}
+.paper-link::before{
+  content: '📄 ';
+}
+
+.register {
+  border: 1px solid #2a7ae2;
+  border-radius: 4px;
+  padding: 1em;
+  display: inline-block;
+  margin: 1em 0;
+  background-color: #2a7ae2;
+
+  color: #fff;
+
+  &:hover, &:active, &:visited{
+    color: #fff;
+  }
+}
+.register.passed {
+  background: none;
+  border-color: #999;
+  color: #666;
+  &:hover{
+    text-decoration: none;
+  }
+  cursor: default;
+}
+
+
+blockquote {
+  font-style: normal;
+}
