@@ -1,7 +1,7 @@
 ---
 layout: session
 title: Proxy Failure
-paper_title: Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems
+paper_title: "Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems"
 paper_author: John, et al.
 paper_year: 2023
 paper_link: https://www.researchgate.net/publication/371866602_Dead_rats_dopamine_performance_metrics_and_peacock_tails_proxy_failure_is_an_inherent_risk_in_goal-oriented_systems

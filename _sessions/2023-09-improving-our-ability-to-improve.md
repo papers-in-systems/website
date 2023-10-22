@@ -1,7 +1,7 @@
 ---
 layout: session
 title: Improving Our Ability to Improve
-paper_title: Improving Our Ability to Improve: A Call for Investment in a New Future
+paper_title: "Improving Our Ability to Improve: A Call for Investment in a New Future"
 paper_author: Douglas C. Engelbart
 paper_year: 2002
 paper_link: https://dougengelbart.org/content/view/348/
