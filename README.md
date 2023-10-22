@@ -14,8 +14,9 @@ paper_title: # the full rambling title, including subtitle, etc
 paper_author: # academic citation style "et al" or the plain language author's name
 paper_year: # full year the work was published
 paper_link: # link to a pdf, conference site, non-commercial book link, etc
-presenter: # presenter's preferred name
-presenter_link: # social media link or home page
+presenter:
+  - name: # presenter's preferred name
+  - link: # social media link or home page
 registration: # link to the tito page for this session (get from Ruth)
 date: # full date (YYYY-MM-DD) of the session
 ---

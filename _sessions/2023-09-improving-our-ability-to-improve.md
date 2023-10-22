@@ -5,8 +5,9 @@ paper_title: "Improving Our Ability to Improve: A Call for Investment in a New F
 paper_author: Douglas C. Engelbart
 paper_year: 2002
 paper_link: https://dougengelbart.org/content/view/348/
-presenter: Arty Starr
-presenter_link: https://ti.to/bredemeyer/@art3starr@mastodon.social
+presenter:
+  - name: Arty Starr
+    link: https://ti.to/bredemeyer/@art3starr@mastodon.social
 registration: https://ti.to/bredemeyer/engelbartabilitytoimprove
 date: 2023-09-13
 ---

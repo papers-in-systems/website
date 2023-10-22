@@ -5,8 +5,9 @@ paper_title: Metastable Failures in the Wild
 paper_author: Huang, et al.
 paper_year: 2022
 paper_link: https://www.usenix.org/conference/osdi22/presentation/huang-lexiang
-presenter: Juno Suárez
-presenter_link: https://hachyderm.io/@juno
+presenter:
+  - name: Juno Suárez
+    link: https://hachyderm.io/@juno
 registration: https://ti.to/bredemeyer/metastablefailures/
 date: 2023-11-13
 ---

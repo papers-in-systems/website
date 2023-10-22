@@ -15,7 +15,7 @@ layout: page
     {%- if page.presenter -%} by {% for presenter in page.presenter %}
     <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
       <span class="p-performer h-card" itemprop="name"
-        ><a href="{{presenter_link}}">{{ presenter }}</a></span
+        ><a href="{{presenter.link}}">{{ presenter.name }}</a></span
       ></span
     >
     {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}

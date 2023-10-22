@@ -5,8 +5,9 @@ paper_title: Common Ground and Coordination in Joint Activity
 paper_author: Klein, et al.
 paper_year: 2005
 paper_link: https://jeffreymbradshaw.net/publications/Common_Ground_Single.pdf
-presenter: Andrea Magnorsky
-presenter_link: https://types.pl/@roundcrisis
+presenter:
+  - name: Andrea Magnorsky
+    link: https://types.pl/@roundcrisis
 registration: https://ti.to/bredemeyer/commonground
 date: 2023-07-10
 ---

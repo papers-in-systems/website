@@ -9,7 +9,16 @@ title: Past sessions
     <li class="session" data-timestamp="{{ session.date | date: '%s%L'}}">
       <a href="{{ session.url }}">
         <div>
-        {{session.date | date: '%B %Y'}} &middot; {{ session.presenter }}</div>
+        {{session.date | date: '%B %Y'}}
+        {%- if session.presenter -%} {% for presenter in session.presenter %}
+    <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
+      <span class="p-performer h-card" itemprop="name"
+        >{{ presenter.name }}</span
+      ></span
+    >
+    {% endfor %}
+    {%- endif -%}
+        </div>
         <div class="title">{{ session.title }}</div>
       </a>
     </li>

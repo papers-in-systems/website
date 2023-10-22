@@ -1,8 +1,9 @@
 ---
 layout: session
 title: The Real World of Technology
-presenter: Yvonne Lam
-presenter_link: https://mastodon.social/@yvonnezlam
+presenter:
+  - name: Yvonne Lam
+    link: https://mastodon.social/@yvonnezlam
 date: 2023-10-02
 paper_title: The Real World of Technology
 paper_author: Ursula M Franklin

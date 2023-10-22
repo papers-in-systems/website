@@ -69,6 +69,15 @@ li.session {
   margin: 0;
 }
 
+.session-list, .session-excerpt {
+  [itemprop=performer]:first-of-type::before{
+    content: '· '
+  }
+  [itemprop=performer]:not(:last-of-type)::after {
+    content: ', '
+  }
+}
+
 .session-meta {
   font-size: 100%;
 }
