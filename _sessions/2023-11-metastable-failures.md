@@ -8,7 +8,7 @@ paper_link: https://www.usenix.org/conference/osdi22/presentation/huang-lexiang
 presenter: Juno Suárez
 presenter_link: https://hachyderm.io/@juno
 registration: https://ti.to/bredemeyer/metastablefailures/
-date: 2023-11-09
+date: 2023-11-13
 ---
 
 > Metastable failures are a class of system failures characterized by sustaining effects that keep systems in a degraded state and resist recovery.
