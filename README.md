@@ -6,7 +6,7 @@ this repo contains the [papersin.systems](https://papersin.systems) website
 
 Create a new markdown document in the `_sessions` directory. Make sure to include the following "frontmatter" metadata:
 
-````
+```
 ---
 layout: session
 title: # the pithy title
@@ -18,7 +18,10 @@ presenter: # presenter's preferred name
 presenter_link: # social media link or home page
 registration: # link to the tito page for this session (get from Ruth)
 date: # full date (YYYY-MM-DD) of the session
----```
+---
+
+description / excerpt / abstract of the paper
+```
 
 ## How to: add a page to the header
 
@@ -32,4 +35,3 @@ Clone the repo and run `docker compose up` or `podman compose up`. This will bui
 
 - [ ] add content for older sessions
 - [ ] add content for proposing a session
-````
