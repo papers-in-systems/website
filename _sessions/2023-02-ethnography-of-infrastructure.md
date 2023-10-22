@@ -9,7 +9,7 @@ presenter:
   - name: Yvonne Lam
     link: https://mastodon.social/@yvonnezlam
 registration: https://checkout.tito.io/bredemeyer/star_insfrastructure
-date: 2022-02-06
+date: 2023-02-06
 ---
 
 If you're intrigued by this quote, there's more!
