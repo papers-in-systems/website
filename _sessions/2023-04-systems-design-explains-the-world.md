@@ -7,7 +7,7 @@ paper_year: 2020
 paper_link: https://apenwarr.ca/log/20201227
 presenter:
   - name: Tammy Troup
-    link: # social media link or home page
+    link: https://digipres.club/@tltroup
   - name: Yvonne Lam
     link: https://mastodon.social/@yvonnezlam
   - name: Shaun Greene
