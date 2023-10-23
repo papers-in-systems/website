@@ -6,8 +6,16 @@ paper_author: Avery Pennarun
 paper_year: 2020
 paper_link: https://apenwarr.ca/log/20201227
 presenter:
-  - name: # presenter's preferred name
+  - name: Tammy Troup
     link: # social media link or home page
+  - name: Yvonne Lam
+    link: https://mastodon.social/@yvonnezlam
+  - name: Shaun Greene
+    link: # social media link or home page
+  - name: Andrea  Magnorsky
+    link: https://types.pl/@roundcrisis
+  - name: Dawn Ahukanna
+    link: https://mastodon.social/@dahukanna
 registration: https://ti.to/bredemeyer/pennarunsystemsdesign
 date: 2023-04-03
 ---
