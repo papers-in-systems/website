@@ -10,7 +10,7 @@ presenter:
     link: https://hachyderm.io/@juno
 registration: https://ti.to/bredemeyer/ps-proxy-failure
 date: 2023-08-07
-miro: ""
+miro: 2023-08-proxy-failure.pdf
 slug: "When a measure becomes a target, it ceases to be a good measure. This phenomenon has received numerous names and has been observed across a broad range of contexts, ranging from macroeconomics to machine-learning to ecology."
 ---
 
