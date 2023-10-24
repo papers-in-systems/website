@@ -1,6 +1,7 @@
 ---
 layout: session
 title: Ethnography of Infrastructure
+session_series: "First Mondays: Papers in Systems"
 paper_title: Ethnography of Infrastructure
 paper_author: Susan Leigh Star
 paper_year: 1999
@@ -10,8 +11,10 @@ presenter:
     link: https://mastodon.social/@yvonnezlam
 registration: https://checkout.tito.io/bredemeyer/star_insfrastructure
 date: 2023-02-06
+miro: ""
+slug: "[Infrastructure] Becomes visible upon breakdown. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout. Even when there are back-up mechanisms or procedures, their existence further highlights the now-visible infrastructure."
 ---
 
-If you're intrigued by this quote, there's more!
+Our **First Mondays: Papers in Systems** discussion series launch session.
 
 > [Infrastructure] Becomes visible upon breakdown. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout. Even when there are back-up mechanisms or procedures, their existence further highlights the now-visible infrastructure."

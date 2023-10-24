@@ -18,10 +18,9 @@ presenter:
     link: https://mastodon.social/@dahukanna
 registration: https://ti.to/bredemeyer/pennarunsystemsdesign
 date: 2023-04-03
+miro: "2023-04-systems-design-explains-the-world.pdf"
+slug: "...but I guess I still haven't answered the question. What is systems design? It's the thing that will eventually kill your project if you do it wrong, but probably not right away. It's macroeconomics instead of microeconomics."
 ---
 
-If you're intrigued by this quote, there's more!
-
 > ...but I guess I still haven't answered the question. What is systems design? It's the thing that will eventually kill your project if you do it wrong, but probably not right away. It's macroeconomics instead of microeconomics. It's fixing which promotion ladders your company even has, rather than trying to climb the ladders. It's knowing when a distributed system is or isn't appropriate, not just knowing how to build one. It's repairing the incentives in a political system, not just getting elected and passing your favourite laws.
-
 > Most of all, systems design is invisible to people who don't know how to look for it.

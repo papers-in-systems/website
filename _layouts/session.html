@@ -15,9 +15,9 @@ layout: page
     {%- if page.presenter -%} by {% for presenter in page.presenter %}
     <span itemprop="performer" itemscope itemtype="http://schema.org/Person">
       <span class="p-performer h-card" itemprop="name"
-        ><a href="{{presenter.link}}">{{ presenter.name }}</a></span
-      ></span
-    >
+        ><a href="{{presenter.link}}">{{ presenter.name }}</a>
+      </span>
+    </span>
     {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
   </p>
 
@@ -40,8 +40,13 @@ layout: page
       if (date < Date.now()) {
         const $register = document.querySelector('.register')
         $register.classList.add('passed')
-        $register.textContent = "This session is passed."
+        $register.textContent = "Previous session."
       }
     </script>
   </div>
+  {% assign miro_board_present = page.miro | upcase %}
+  {% if miro_board_present contains "PDF" %}
+   {% include miro-board-pdf.html %}
+  {% endif %}
+  
 </div>

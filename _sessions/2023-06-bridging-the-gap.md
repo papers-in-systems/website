@@ -12,10 +12,8 @@ presenter:
     link: https://social.coop/@shauna
 registration: https://ti.to/bredemeyer/bridgingthegap
 date: 2023-06-05
+miro: "2023-06-bridging-the-gap.pdf"
+slug: "As I've said a few times now, all models are wrong. That includes laws and norms, employee handbooks and product roadmaps, system diagrams and city plans. If something is abstracting away from reality, it's creating a gap. What happens when that gap causes problems?"
 ---
 
-From the essay we're reading for, and discussing at, the June (remote) meeting:
-
 > As I've said a few times now, all models are wrong. That includes laws and norms, employee handbooks and product roadmaps, system diagrams and city plans. If something is abstracting away from reality, it's creating a gap. What happens when that gap causes problems?
-
-If you're intrigued by this quote, there's more!

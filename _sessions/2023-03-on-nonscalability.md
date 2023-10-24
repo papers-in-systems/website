@@ -10,8 +10,10 @@ presenter:
     link: https://hachyderm.io/@ntravaglini
 registration: https://ti.to/bredemeyer/tsing_nonscalability/
 date: 2023-03-06
+miro: ""
+slug: "When small projects can become big without changing the nature of the project, we call that design feature “scalability”. Scalability is a confusing term because it seems to mean something broader, the ability to use scale; but that is not the technical meaning of the term. Scalable projects are those that can expand without changing."
 ---
 
-If you're intrigued by this quote, there's more!
-
-> When small projects can become big without changing the nature of the project, we call that design feature “scalability.” Scalability is a confusing term because it seems to mean something broader, the ability to use scale; but that is not the technical meaning of the term. Scalable projects are those that can expand without changing. My interest is in the exclusion of biological and cultural diversity from scalable designs. Scalability is possible only if project elements do not form transformative relationships that might change the project as elements are added. But transformative relationships are the medium for the emergence of diversity. Scalability projects banish meaningful diversity, which is to say, diversity that might change things.
+> When small projects can become big without changing the nature of the project, we call that design feature “scalability”. Scalability is a confusing term because it seems to mean something broader, the ability to use scale; but that is not the technical meaning of the term. Scalable projects are those that can expand without changing. 
+> My interest is in the exclusion of biological and cultural diversity from scalable designs. Scalability is possible only if project elements do not form transformative relationships that might change the project as elements are added.
+> But transformative relationships are the medium for the emergence of diversity. Scalability projects banish meaningful diversity, which is to say, diversity that might change things.

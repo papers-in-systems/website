@@ -19,6 +19,8 @@ presenter:
     link: # social media link or home page
 registration: # link to the tito page for this session (get from Ruth)
 date: # full date (YYYY-MM-DD) of the session
+miro: # name of high resolution PDF export from Miro board. This should be the same name as the corresponding session markdown document.
+slug: # Summary for upcoming page.
 ---
 
 description / excerpt / abstract of the paper
@@ -34,5 +36,12 @@ Clone the repo and run `docker compose up` or `podman compose up`. This will bui
 
 ## Todo
 
-- [ ] add content for older sessions
-- [ ] add content for proposing a session
+- [ ] Review content for previous sessions.
+- [ ] Add content for proposing a session.
+- Add Miro board high resolution PDF export files for:
+  - [ ] Feb 2023
+  - [ ] Mar 2023
+  - [ ] Jul 2023
+  - [ ] Aug 2023 
+  - [ ] Sep 2023
+  - [ ] Oct 2023  

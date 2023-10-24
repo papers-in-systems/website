@@ -10,6 +10,10 @@ presenter:
     link: https://hachyderm.io/@juno
 registration: https://ti.to/bredemeyer/ps-proxy-failure
 date: 2023-08-07
+miro: ""
+slug: "When a measure becomes a target, it ceases to be a good measure. This phenomenon has received numerous names and has been observed across a broad range of contexts, ranging from macroeconomics to machine-learning to ecology."
 ---
 
-> When a measure becomes a target, it ceases to be a good measure. This phenomenon has received numerous names and has been observed across a broad range of contexts, ranging from macroeconomics to machine-learning to ecology. Is this similarity superficial, or does it imply a unified underlying mechanism? We argue that there are real structural similarities that lead to this phenomenon, which we label "proxy failure". Our account provides a novel perspective on the organization and dynamics of goal-oriented behaviour across biological and social scales.
+> When a measure becomes a target, it ceases to be a good measure. This phenomenon has received numerous names and has been observed across a broad range of contexts, ranging from macroeconomics to machine-learning to ecology.
+> Is this similarity superficial, or does it imply a unified underlying mechanism? We argue that there are real structural similarities that lead to this phenomenon, which we label "proxy failure".
+> Our account provides a novel perspective on the organization and dynamics of goal-oriented behaviour across biological and social scales.
