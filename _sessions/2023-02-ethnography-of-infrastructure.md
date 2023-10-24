@@ -11,7 +11,7 @@ presenter:
     link: https://mastodon.social/@yvonnezlam
 registration: https://checkout.tito.io/bredemeyer/star_insfrastructure
 date: 2023-02-06
-miro: ""
+miro: 2023-02-ethnography-of-infrastructure.pdf
 slug: "[Infrastructure] Becomes visible upon breakdown. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout. Even when there are back-up mechanisms or procedures, their existence further highlights the now-visible infrastructure."
 ---
 
