@@ -1,6 +1,6 @@
 # website
 
-this repo contains the [papersin.systems](https://papersin.systems) website
+This repo contains the [papersin.systems](https://papersin.systems) website
 
 ## How to: add a session
 
@@ -20,7 +20,7 @@ presenter:
 registration: # link to the tito page for this session (get from Ruth)
 date: # full date (YYYY-MM-DD) of the session
 miro: # name of high resolution PDF export from Miro board. This should be the same name as the corresponding session markdown document.
-slug: # Summary for upcoming page.
+slug: # Summary paragraph for upcoming page.
 ---
 
 description / excerpt / abstract of the paper
@@ -33,15 +33,4 @@ Create a new markdown document in the `_/pages` directory, and add it to the `he
 ## How to: develop locally
 
 Clone the repo and run `docker compose up` or `podman compose up`. This will build a docker image and start the jekyll devserver, which will live-reload on most changes. Note, changes to `_compose.yml` require a manual restart with `ctrl-c` and re-running the `docker compose up` command.
-
-## Todo
-
-- [ ] Review content for previous sessions.
-- [ ] Add content for proposing a session.
-- Add Miro board high resolution PDF export files for:
-  - [ ] Feb 2023
-  - [ ] Mar 2023
-  - [ ] Jul 2023
-  - [ ] Aug 2023 
-  - [ ] Sep 2023
-  - [ ] Oct 2023  
+ 
