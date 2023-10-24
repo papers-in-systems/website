@@ -10,7 +10,7 @@ presenter:
     link: https://ti.to/bredemeyer/@art3starr@mastodon.social
 registration: https://ti.to/bredemeyer/engelbartabilitytoimprove
 date: 2023-09-13
-miro: ""
+miro: 2023-09-improving-our-ability-to-improve.pdf
 slug: "This vision of success has not changed much for me over fifty years – it has gotten more precise and detailed – but it is pointed at the same potential that I saw in the early 1950s."
 ---
 
