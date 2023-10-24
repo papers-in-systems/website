@@ -10,6 +10,8 @@ presenter:
     link: https://hachyderm.io/@juno
 registration: https://ti.to/bredemeyer/metastablefailures/
 date: 2023-11-13
+miro: ""
+slug: "Metastable failures are a class of system failures characterized by sustaining effects that keep systems in a degraded state and resist recovery."
 ---
 
 > Metastable failures are a class of system failures characterized by sustaining effects that keep systems in a degraded state and resist recovery.
