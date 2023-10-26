@@ -90,7 +90,7 @@ li.session {
   content: '📄 ';
 }
 
-.register {
+.register, .board-link {
   border: 1px solid #2a7ae2;
   border-radius: 4px;
   padding: 1em;
@@ -112,6 +112,8 @@ li.session {
     text-decoration: none;
   }
   cursor: default;
+
+  display: none;
 }
 
 
