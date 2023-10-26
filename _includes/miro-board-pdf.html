@@ -1,8 +1,26 @@
-  <div>
-    <h2>Session board </h2>
-    
-    <object data='{{page.miro}}' 
-          type='application/pdf' 
-          width='100%' 
-          height='700px'>
-  </div>
+<div>
+  <h2>Session board</h2>
+
+  <a class="board-link" href="{{page.miro}}" target="_blank">Open PDF</a>
+
+  <object
+    class="session-board"
+    data="{{page.miro}}"
+    type="application/pdf"
+    width="100%"
+    height="700px"
+  />
+  <script>
+    (() => {
+      const isIOS =
+        /iPad|iPhone|iPod/.test(navigator.platform) ||
+        (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+
+      if (isIOS) {
+        // iOS doesn't support multi-page PDF embeds, so hide it
+        // and only show the link
+        document.querySelector(".session-board").classList.add("hidden");
+      }
+    })();
+  </script>
+</div>
