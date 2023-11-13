@@ -17,3 +17,5 @@ slug: "Metastable failures are a class of system failures characterized by susta
 > Metastable failures are a class of system failures characterized by sustaining effects that keep systems in a degraded state and resist recovery.
 
 > A key property of metastable failures is that their root cause is not a specific hardware failure or a software bug. It is an emergent behavior of a system, and it naturally arises from the optimizations for the common case that lead to sustained work amplification. As such, metastable failures are hard to predict, may potentially have catastrophic effects, and incur significant ongoing human engineering costs because automated recovery is difficult
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRqP6SRGJNDSwQFDUEbyWBLfAaTgcL3T-kb8iw65iYk2BlEC6mA7CUFpUfkr97gWtt9KeOOzZikhuai/pub?start=false&loop=false&delayms=3000&slide=id.p" target="_blank" rel="noopener noreferer">Slides</a>
