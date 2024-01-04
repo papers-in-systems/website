@@ -17,3 +17,7 @@ slug: "Value capture occurs when an agent’s values are rich and subtle; they e
 ---
 
 > Value capture occurs when an agent’s values are rich and subtle; they enter a social environment that presents simplified — typically quantified — versions of those values; and those simplified articulations come to dominate their practical reasoning.
+
+Recommended but optional additional reading:
+
+[Hostile Epistemology - C Thi Nguyen (2022)](https://philpapers.org/archive/NGUHEL.pdf)
