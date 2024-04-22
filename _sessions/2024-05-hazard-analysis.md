@@ -1,4 +1,3 @@
-```
 ---
 layout: session
 title: Hazard Analysis
@@ -9,7 +8,7 @@ paper_link: http://sunnyday.mit.edu/SOS-hazard-analysis.pdf
   - name: Adrian Cockcroft
     link: https://mastodon.social/@adrianco
 registration: # https://ti.to/bredemeyer/psleveson/
-date: # 2024-05-06
+date: 2024-05-06
 miro: # name of high resolution PDF export from Miro board. This should be the same name as the corresponding session markdown document.
 slug: # Summary paragraph for upcoming page.
 ---
