@@ -1,16 +1,17 @@
 ---
 layout: session
-title: Hazard Analysis
-paper_title:  How to Perform Hazard Analysis on a “System-of-Systems”
+title: "How to Perform Hazard Analysis on a 'System-of-Systems'"
+paper_title:  "How to Perform Hazard Analysis on a 'System-of-Systems'"
 paper_author: Levesonn, N
 paper_year: 2019
 paper_link: http://sunnyday.mit.edu/SOS-hazard-analysis.pdf
+presenter:
   - name: Adrian Cockcroft
     link: https://mastodon.social/@adrianco
 registration: https://ti.to/bredemeyer/psleveson/
 date: 2024-05-06
 miro: ""
-slug: # Summary paragraph for upcoming page.
+slug: "How to Perform Hazard Analysis on a System-of-Systems"
 ---
 
 Many people seem to believe that a different type of hazard analysis is required for a
