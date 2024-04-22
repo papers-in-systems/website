@@ -7,9 +7,9 @@ paper_year: 2019
 paper_link: http://sunnyday.mit.edu/SOS-hazard-analysis.pdf
   - name: Adrian Cockcroft
     link: https://mastodon.social/@adrianco
-registration: # https://ti.to/bredemeyer/psleveson/
+registration: https://ti.to/bredemeyer/psleveson/
 date: 2024-05-06
-miro: # name of high resolution PDF export from Miro board. This should be the same name as the corresponding session markdown document.
+miro: ""
 slug: # Summary paragraph for upcoming page.
 ---
 
@@ -24,4 +24,3 @@ system-of-systems). Much of the confusion arises from the formal definition of a
 clarifies the definition of a system and shows how STPA can be used for what has been labeled
 (erroneously) as a system-of-system, without any changes to STPA. A very complex military system,
 created by composing both existing and new systems, is used as the example.
-```
