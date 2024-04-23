@@ -1,17 +1,17 @@
-```
 ---
 layout: session
-title: Hazard Analysis
-paper_title:  How to Perform Hazard Analysis on a “System-of-Systems”
+title: "How to Perform Hazard Analysis on a 'System-of-Systems'"
+paper_title:  "How to Perform Hazard Analysis on a 'System-of-Systems'"
 paper_author: Levesonn, N
 paper_year: 2019
 paper_link: http://sunnyday.mit.edu/SOS-hazard-analysis.pdf
+presenter:
   - name: Adrian Cockcroft
     link: https://mastodon.social/@adrianco
-registration: # https://ti.to/bredemeyer/psleveson/
-date: # 2024-05-06
-miro: # name of high resolution PDF export from Miro board. This should be the same name as the corresponding session markdown document.
-slug: # Summary paragraph for upcoming page.
+registration: https://ti.to/bredemeyer/psleveson/
+date: 2024-05-06
+miro: ""
+slug: "How to Perform Hazard Analysis on a System-of-Systems"
 ---
 
 Many people seem to believe that a different type of hazard analysis is required for a
@@ -25,4 +25,3 @@ system-of-systems). Much of the confusion arises from the formal definition of a
 clarifies the definition of a system and shows how STPA can be used for what has been labeled
 (erroneously) as a system-of-system, without any changes to STPA. A very complex military system,
 created by composing both existing and new systems, is used as the example.
-```
