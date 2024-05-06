@@ -10,7 +10,7 @@ presenter:
     link: https://mastodon.social/@adrianco
 registration: https://ti.to/bredemeyer/psleveson/
 date: 2024-05-06
-miro: ""
+miro: 2024-05-hazard-analysis-miro.pdf
 slug: "How to Perform Hazard Analysis on a System-of-Systems"
 ---
 
